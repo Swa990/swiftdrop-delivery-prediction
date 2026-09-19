@@ -50,8 +50,12 @@ models/*.joblib
 # MLflow
 # ==================================================
 
-# mlruns/
-mlartifacts/
+# MLflow
+mlruns/
+mlflow.db
+
+# ZIP/archive files
+*.zip
 
 # ==================================================
 # Jupyter
