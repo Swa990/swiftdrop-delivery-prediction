@@ -251,3 +251,4 @@ joblib.dump(
 print(
     f"\nModel saved to: {MODEL_PATH}"
 )
+
