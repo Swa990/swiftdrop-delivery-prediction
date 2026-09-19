@@ -13,7 +13,7 @@ The application is publicly accessible and can be tested directly in a browser. 
 
 ---
 
-## 1. Problem Statement
+## 1. Problem Statements
 
 SwiftDrop requires a machine learning system that predicts the expected delivery time of an order in minutes.
 
